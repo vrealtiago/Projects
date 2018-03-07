@@ -139,15 +139,6 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
 }
-.para03 {
-  background-image: url("../img/formatter02.gif");
-  height: 100%;
-  min-height: 600px;
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
 .titleImg {
   text-align: center;
   color: #F0FFFF;
